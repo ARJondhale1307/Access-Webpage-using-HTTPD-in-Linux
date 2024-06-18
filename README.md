@@ -12,7 +12,7 @@ The daemon answers the request automatically and serves the hypertext and multim
 - Connect to EC2 Instance through EC2 Instance Connect
 2. **Install HTTPD Web Server:**
 - Install the HTTPD web server using the yum package manager with all dependencies
-- 3. **Check HTTPD server stuatus:**
+3. **Check HTTPD server stuatus:**
 - Check HTTPD server active or not using systemctl utility
 
 4. **Start HTTPD server in server:**
