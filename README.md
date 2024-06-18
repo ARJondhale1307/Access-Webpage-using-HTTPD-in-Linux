@@ -10,5 +10,17 @@ The daemon answers the request automatically and serves the hypertext and multim
 1. **Launch an EC2 Instance:**
 - You initiate a new EC2 instance on AWS, selecting the AWS Linux image
 - Connect to EC2 Instance through EC2 Instance Connect
-1. **Install HTTPD Web Server:**
-- Install the HTTPD web server using the yum package manager with all dependencies.
+2. **Install HTTPD Web Server:**
+- Install the HTTPD web server using the yum package manager with all dependencies
+- 3. **Check HTTPD server stuatus:**
+- Check HTTPD server active or not using systemctl utility
+
+4. **Start HTTPD server in server:**
+
+5. **Create web page:**
+- Go to the directory where the webpage content file is located (`/var/www/html`).
+- Create a new `index.html` file with your own content.
+- If you add Images to your content add images in html directory
+
+6. **View Customized Page:**
+- Use the public IP address again in the browser to see your website content.
