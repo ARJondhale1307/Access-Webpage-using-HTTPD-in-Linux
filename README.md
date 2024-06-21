@@ -16,7 +16,7 @@ The daemon answers the request automatically and serves the hypertext and multim
 - Check HTTPD server active or not using systemctl utility
 
 4. **Start HTTPD server in server:**
-
+- Use followed command (systmectl start httpd.service)
 5. **Create web page:**
 - Go to the directory where the webpage content file is located (`/var/www/html`).
 - Create a new `index.html` file with your own content.
