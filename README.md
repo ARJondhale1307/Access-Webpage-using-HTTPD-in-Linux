@@ -52,4 +52,3 @@ The daemon answers the request automatically and serves the hypertext and multim
 
 6. **View Customized Page:**
 - Use the public IP address again in the browser to see your website content.
->>>>>>> 91024df889da3a6962008c7146a9e60a039d0535
