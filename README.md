@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Access-Webpage-using-HTTPD-in-Linux
 In this project I have used HTTPD web server to host web pages in Linux, how we can set up a web server in our Linux environment, deploy our first simple HTML-based web page, and how we can access our web page from the browser.
 
